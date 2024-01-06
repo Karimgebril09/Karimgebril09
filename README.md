@@ -9,4 +9,12 @@
   <img  height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimgebril09&layout=compact&theme=apprentice" />
 </p>
 
-
+## Competitive programming
+<div align="left">
+  <a href="https://codeforces.com/profile/Karimgebril">
+    <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Karimgebril&theme=github_dark&force_username=true&border_color=404040"     alt="redheadphone Codeforces Stats"/>
+  </a>
+  <a href="https://leetcode.com/karimmahmoud0912">
+    <img height="316" src="https://leetcard.jacoblin.cool/karimmahmoud0912?theme=dark&font=Karma&ext=contest" alt="RedHeadphone Leetcode Stats"/>
+  </a>
+</div>
