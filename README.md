@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim Mahmoud</h1>
-<h3 align="center">A passionate computer science student interested in machine learning</h3>
+<h3 align="center">A passionate computer Engineering student interested in machine learning</h3>
 
 - 📫 How to reach me **karimmahmoud0912@gmail.com**
 
